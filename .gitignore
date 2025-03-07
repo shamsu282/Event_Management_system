@@ -1,0 +1,15 @@
+.vnev/
+
+vnev
+*.vnev
+
+
+.__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.__pycache__
+
+.vscode/
+.idea
